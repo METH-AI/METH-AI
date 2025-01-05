@@ -58,7 +58,7 @@ print(health_report)
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/METH-AI-Trading-System.git
+   git clone https://github.com/METH-AI/METH-AI.git
    cd METH-AI-Trading-System
    ```
 
